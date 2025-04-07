@@ -1,37 +1,24 @@
-# E-Commerce Website
+# E-Commerce Frontend
 
-A Ecommerce Website made with React.js.
+A responsive shopping website frontend built using Bootstrap and custom design tools. This project showcases the user interface for an e-commerce platform.
 
-## Run Locally
+## Features
+- Responsive layout using Bootstrap
+- Product grid and detail pages
+- Shopping cart UI
+- Navbar, footer, and category sections
+- Mobile-friendly design
 
-Clone the project
-
-```bash
-  git clone https://github.com/followDev/ecommerce-react.git
-```
-
-Go to the project directory
-
-```bash
-  cd ecommerce-react
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
+## Technologies Used
+- HTML5 / CSS3
+- Bootstrap 5
+- JavaScript (optional for interactivity)
+- Font Awesome / Google Fonts
 
 
+## How to Run
+1. Clone the repository
+2. Open `index.html` in your browser
 
-
-
-
-
-
+## License
+MIT
